@@ -1,6 +1,7 @@
-1.0.1 2020-04-23
-  - Reupload subj015 eeg data
 Revision history for Face Recognition experiment by Wakeman-Henson
 
-version 1.0 beta - March 2020
- - Initial release of EEG data in this experiment for EEGLAB education purposes
+version 1.0 - April 2020
+ - Initial release of EEG data in this experiment for EEGLAB education purposes 
+ 
+version 1.0.2 - May 2020
+ - Rotation of channel montage to fit RAS coordinates
