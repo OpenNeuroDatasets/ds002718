@@ -1,3 +1,5 @@
+1.0.4 2021-01-15
+  - Remove HED for now because of validation issue, use single files for EEGLAB
 1.0.3 2020-09-01
   - Fixed typo in README file
 1.0.2 2020-05-26
