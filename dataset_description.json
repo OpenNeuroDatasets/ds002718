@@ -1,6 +1,7 @@
 {
     "Name": "Face processing EEG dataset for EEGLAB",
     "BIDSVersion": "v1.2.0",
+    "HEDVersion": "7.1.2",
     "License": "CC0",
     "Authors": [
         "Daniel G. Wakeman",
