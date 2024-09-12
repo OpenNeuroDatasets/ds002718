@@ -17,5 +17,6 @@ minimal preprocessing including (see wh_extracteeg_BIDS.m):
 - Removing event fields urevent and duration 
 - Filling up empty fields for events boundary and stim_file.
 - Saving as EEGLAB .set format
+- Add HED event description
 
 Ramon Martinez, Dung Truong, Scott Makeig, Arnaud Delorme (UCSD, La Jolla, CA, USA)
