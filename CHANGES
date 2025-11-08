@@ -1,3 +1,5 @@
+1.1.0 2025-11-08
+  - Remake BIDS compliant and adding fiducials, editing README
 1.0.5 2021-08-03
   - Remove problematic events.json files that cause HED validation errors
 1.0.4 2021-01-15
