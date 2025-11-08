@@ -1,0 +1,21 @@
+{
+  "EEGCoordinateUnits": "cm",
+  "EEGCoordinateSystem": "EEGLAB",
+  "AnatomicalLandmarkCoordinates": {
+    "LPA": [
+      -0.0,
+      7.7262,
+      0.0
+    ],
+    "Nasion": [
+      10.4094,
+      0.0,
+      -0.0
+    ],
+    "RPA": [
+      0.0,
+      -7.778,
+      0.0
+    ]
+  }
+}

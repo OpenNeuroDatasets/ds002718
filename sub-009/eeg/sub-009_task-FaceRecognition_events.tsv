@@ -1,4 +1,4 @@
-onset	duration	sample	trial_type	response_time	stim_file	value	face_type	event_type	event_order	trial_dist	time_dist
+onset	duration	sample	trial_type	response_time	stim_file	trial_value	face_type	event_type	event_order	trial_dist	time_dist
 24.05763636	n/a	n/a	famous_new	n/a	f101.bmp	5	famous	faces	1	0	0
 25.06763636	n/a	n/a	left_nonsym	n/a	n/a	256	n/a	button_press	0	0	0
 27.38218182	n/a	n/a	unfamiliar_new	n/a	u013.bmp	13	unfamiliar	faces	1	0	0

@@ -1,4 +1,4 @@
-onset	duration	sample	trial_type	response_time	stim_file	value	face_type	event_type	event_order	trial_dist	time_dist
+onset	duration	sample	trial_type	response_time	stim_file	trial_value	face_type	event_type	event_order	trial_dist	time_dist
 24.26672727	n/a	n/a	scrambled_new	n/a	s107.bmp	17	scrambled	faces	1	0	0
 25.28036364	n/a	n/a	right_nonsym	n/a	n/a	4096	n/a	button_press	0	0	0
 27.40672727	n/a	n/a	scrambled_second_early	n/a	s107.bmp	18	scrambled	faces	2	1	3.14
